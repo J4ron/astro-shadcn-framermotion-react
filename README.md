@@ -8,7 +8,7 @@ To set up your project, follow these steps:
 
     Clone the repository:
 
-git clone https://github.com/your-username/astro-react-shadcn-framer-template.git
+git clone ```https://github.com/your-username/astro-react-shadcn-framer-template.git```
 cd astro-react-shadcn-framer-template
 
 Install dependencies:
